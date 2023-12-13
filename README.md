@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ Swapnil Mahure
+- 👀 This repository showcases my work, projects, and contributions to the exciting field of machine learning and AI.
+- 🌱 I am an ardent machine learning engineer who is highly motivated to create innovative solutions through the utilization of state-of-the-art technologies.
+- My work, initiatives, and contributions to the dynamic field of machine learning are featured in this repository.
+- 📫 Reach me out www.linkedin.com/in/swapyface
